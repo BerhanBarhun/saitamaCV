@@ -1,0 +1,26 @@
+body {
+  background-color: #e6d6b1;
+  color: #682d24;
+  font-family: "Poppins", sans-serif;
+}
+div {
+  width: 65%;
+  margin: 5rem auto 0 auto;
+}
+hr {
+  border-style: dotted none none none;
+  border-width: 0.75rem;
+  width: 4%;
+  border-color: #682d2480;
+  clear: both;
+}
+h1 {
+  text-align: center;
+  font-weight: 900;
+  font-size: 2.5rem;
+  margin: 0;
+}
+p {
+  font-size: 1.4rem;
+  font-weight: 500;
+}
