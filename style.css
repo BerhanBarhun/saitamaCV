@@ -293,7 +293,7 @@ hr {
     font-size: 3rem;
   }
   .main {
-    height: 37.5rem;
+    height: 37rem;
   }
   .push {
     position: absolute;
@@ -391,20 +391,29 @@ hr {
     width: 10rem;
     position: relative;
     top: 6rem;
-    left: 1.5rem;
+    left: 0.3rem;
   }
   .leap {
     margin: 0;
     width: 10rem;
     position: relative;
     top: 6rem;
-    left: 3rem;
+    left: 1rem;
   }
   .speed {
     margin: 0;
     width: 10rem;
     position: relative;
     top: 6rem;
-    left: 4.5rem;
+    left: 1.7rem;
+  }
+  .air {
+    font-size: 1rem;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    top: 8rem;
+    left: 1.5rem;
   }
 }
